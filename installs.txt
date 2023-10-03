@@ -1,0 +1,6 @@
+yarn add react-native-vector-icons --save       // https://github.com/oblador/react-native-vector-icons
+
+
+yarn add firebase
+expo install expo-firebase-app
+npm install -g firebase-tools
